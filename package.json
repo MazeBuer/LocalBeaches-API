@@ -1,0 +1,15 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "LA/OC_Beaches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mazikeen BUer",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
